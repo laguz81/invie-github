@@ -1,2 +1,2 @@
 # invie-github
-Clase github platzi
+Clase git y github platzi
