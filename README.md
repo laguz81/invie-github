@@ -1,2 +1,4 @@
-# invie-github
-Clase git y github @platzi Guitarras invie
+# invie
+Las guitarras más locas
+
+http://leonidasesteban.github.io/invie-responsive/
